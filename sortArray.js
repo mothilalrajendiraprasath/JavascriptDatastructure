@@ -8,4 +8,4 @@ let sorted=arr.sort();
 console.log(sorted);
 
 console.log("Second smallest:"+arr[1]);
-console.log("Second largest:"+arr[8]);
+console.log("Second largest:"+arr[arr.length-2]);
