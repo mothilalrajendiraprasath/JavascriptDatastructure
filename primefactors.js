@@ -7,4 +7,4 @@ function primefactor(num){
         }
     } return arr;
 }
-console.log("Prime factors:"+primefactor(150));
+console.log("Prime factors:"+primefactor(200));
